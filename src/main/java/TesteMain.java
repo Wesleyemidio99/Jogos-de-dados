@@ -32,5 +32,7 @@ public class TesteMain {
             System.out.println(segundoJogador.getNome() + "Segundo jogador ganhou.");
         }
 
+        scanner.close();
+
     }
 }
